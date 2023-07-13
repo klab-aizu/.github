@@ -3,6 +3,8 @@
 ## Links
 
 - Internal Group website: [https://web-int.u-aizu.ac.jp/~khanh/](https://web-int.u-aizu.ac.jp/~khanh/)
+  - Username: ``klab_member``
+  - Password: ``aizu23//``
 
 ## Your working repository
 
