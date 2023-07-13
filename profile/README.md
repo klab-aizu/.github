@@ -3,12 +3,11 @@
 ## Links
 
 - Internal Group website: [https://web-int.u-aizu.ac.jp/~khanh/](https://web-int.u-aizu.ac.jp/~khanh/)
-  - Username: ``klab_member``
-  - Password: ``aizu23//``
+- Username and password at : [https://github.com/klab-aizu/web-int](https://github.com/klab-aizu/web-int)
 
 ## Your working repository
 
-After accepting the github invitation, please access your repository at
+After accepting the GitHub invitation, please access your repository at
 
 ```
 https://github.com/klab-aizu/your-student-ID
