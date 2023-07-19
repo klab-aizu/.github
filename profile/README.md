@@ -1,4 +1,4 @@
-# Hi everyone!
+# Hi members!
 
 ## Links
 
@@ -19,4 +19,4 @@ Visit this repository: [https://github.com/klab-aizu/s1234567](https://github.co
 
 ## Contact
 
-If there is any issue, please send email to Khanh (khanh@u-aizu.ac.jp)
+If there is any issue, please send an email to Khanh (khanh@u-aizu.ac.jp)
